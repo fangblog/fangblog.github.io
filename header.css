@@ -1,3 +1,7 @@
-.head{
+body{
   background-image: url("/bg.gif");
+  margin:0;
+}
+.head{
+  
 }
